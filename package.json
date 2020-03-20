@@ -28,7 +28,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "pretty-data": "github:vkiryukhin/pretty-data"
+    "pretty-data": "git+https://github.com/yuanminghu/pretty-data.git"
   },
   "deprecated": false,
   "description": "wepy filemin plugin",
